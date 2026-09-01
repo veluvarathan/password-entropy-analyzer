@@ -19,3 +19,4 @@ A simple Python tool to test how secure your passwords are using math (bits of e
    ```bash
    git clone [https://github.com/veluvarathan/password-entropy-analyzer.git](https://github.com/veluvarathan/password-entropy-analyzer.git)
    cd password-entropy-analyzer
+   python password_evaluator.py
